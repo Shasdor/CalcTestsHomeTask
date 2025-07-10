@@ -14,13 +14,13 @@ public:
 
     void SetHistory(IHistory& history) override;
 
-    int Add(int a, int b) override;
-    int Subtract(int a, int b) override;
-    int Multiply(int a, int b) override;
-    int Divide(int a, int b) override;
+    double Add(double a, double b) override;
+    double Subtract(double a, double b) override;
+    double Multiply(double a, double b) override;
+    double Divide(double a, double b) override;
 
 private:
-    void LogOperation(int a, const char* op, int b, int result);
+    void LogOperation(double a, const char* op, double b, double result);
 
     IHistory& m_history;
 };

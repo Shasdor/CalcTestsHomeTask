@@ -1,0 +1,531 @@
+Start testing: Jul 10 11:38 MSK
+----------------------------------------------------------
+1/20 Testing: SimpleCalculatorOperationTest.BaseOperations_AndLog
+1/20 Test: SimpleCalculatorOperationTest.BaseOperations_AndLog
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBaseOperationsTests" "--gtest_filter=SimpleCalculatorOperationTest.BaseOperations_AndLog" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"SimpleCalculatorOperationTest.BaseOperations_AndLog" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SimpleCalculatorOperationTest.BaseOperations_AndLog
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SimpleCalculatorOperationTest
+[ RUN      ] SimpleCalculatorOperationTest.BaseOperations_AndLog
+[       OK ] SimpleCalculatorOperationTest.BaseOperations_AndLog (0 ms)
+[----------] 1 test from SimpleCalculatorOperationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SimpleCalculatorOperationTest.BaseOperations_AndLog" end time: Jul 10 11:38 MSK
+"SimpleCalculatorOperationTest.BaseOperations_AndLog" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/20 Testing: SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult
+2/20 Test: SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBaseOperationsTests" "--gtest_filter=SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SimpleCalculatorOperationTest
+[ RUN      ] SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult
+[       OK ] SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult (0 ms)
+[----------] 1 test from SimpleCalculatorOperationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult" end time: Jul 10 11:38 MSK
+"SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/20 Testing: SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException
+3/20 Test: SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBaseOperationsTests" "--gtest_filter=SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SimpleCalculatorOperationTest
+[ RUN      ] SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException
+[       OK ] SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException (0 ms)
+[----------] 1 test from SimpleCalculatorOperationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException" end time: Jul 10 11:38 MSK
+"SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/20 Testing: BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity
+4/20 Test: BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity
+[       OK ] BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity" end time: Jul 10 11:38 MSK
+"BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/20 Testing: BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero
+5/20 Test: BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero
+[       OK ] BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero" end time: Jul 10 11:38 MSK
+"BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/20 Testing: BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity
+6/20 Test: BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity
+[       OK ] BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity" end time: Jul 10 11:38 MSK
+"BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/20 Testing: BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax
+7/20 Test: BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax
+[       OK ] BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax" end time: Jul 10 11:38 MSK
+"BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/20 Testing: BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision
+8/20 Test: BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision
+[       OK ] BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision" end time: Jul 10 11:38 MSK
+"BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/20 Testing: BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity
+9/20 Test: BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity
+[       OK ] BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity" end time: Jul 10 11:38 MSK
+"BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/20 Testing: BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero
+10/20 Test: BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero
+[       OK ] BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero" end time: Jul 10 11:38 MSK
+"BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/20 Testing: BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity
+11/20 Test: BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity
+[       OK ] BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity" end time: Jul 10 11:38 MSK
+"BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/20 Testing: BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax
+12/20 Test: BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax
+[       OK ] BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax" end time: Jul 10 11:38 MSK
+"BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/20 Testing: BoundaryTest.Multiply_MinAndHalf_ShouldBePositive
+13/20 Test: BoundaryTest.Multiply_MinAndHalf_ShouldBePositive
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Multiply_MinAndHalf_ShouldBePositive" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Multiply_MinAndHalf_ShouldBePositive" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Multiply_MinAndHalf_ShouldBePositive
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Multiply_MinAndHalf_ShouldBePositive
+[       OK ] BoundaryTest.Multiply_MinAndHalf_ShouldBePositive (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Multiply_MinAndHalf_ShouldBePositive" end time: Jul 10 11:38 MSK
+"BoundaryTest.Multiply_MinAndHalf_ShouldBePositive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/20 Testing: BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin
+14/20 Test: BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBoundaryOperationsTests" "--gtest_filter=BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BoundaryTest
+[ RUN      ] BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin
+[       OK ] BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin (0 ms)
+[----------] 1 test from BoundaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin" end time: Jul 10 11:38 MSK
+"BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/20 Testing: HistoryTests.AddAndGetSingleOperation
+15/20 Test: HistoryTests.AddAndGetSingleOperation
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/HistoryTests" "--gtest_filter=HistoryTests.AddAndGetSingleOperation" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"HistoryTests.AddAndGetSingleOperation" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HistoryTests.AddAndGetSingleOperation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HistoryTests
+[ RUN      ] HistoryTests.AddAndGetSingleOperation
+[       OK ] HistoryTests.AddAndGetSingleOperation (0 ms)
+[----------] 1 test from HistoryTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HistoryTests.AddAndGetSingleOperation" end time: Jul 10 11:38 MSK
+"HistoryTests.AddAndGetSingleOperation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/20 Testing: HistoryTests.GetLastMultipleOperations
+16/20 Test: HistoryTests.GetLastMultipleOperations
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/HistoryTests" "--gtest_filter=HistoryTests.GetLastMultipleOperations" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"HistoryTests.GetLastMultipleOperations" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HistoryTests.GetLastMultipleOperations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HistoryTests
+[ RUN      ] HistoryTests.GetLastMultipleOperations
+[       OK ] HistoryTests.GetLastMultipleOperations (0 ms)
+[----------] 1 test from HistoryTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HistoryTests.GetLastMultipleOperations" end time: Jul 10 11:38 MSK
+"HistoryTests.GetLastMultipleOperations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/20 Testing: HistoryTests.GetLastMoreThanStored
+17/20 Test: HistoryTests.GetLastMoreThanStored
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/HistoryTests" "--gtest_filter=HistoryTests.GetLastMoreThanStored" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"HistoryTests.GetLastMoreThanStored" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HistoryTests.GetLastMoreThanStored
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HistoryTests
+[ RUN      ] HistoryTests.GetLastMoreThanStored
+[       OK ] HistoryTests.GetLastMoreThanStored (0 ms)
+[----------] 1 test from HistoryTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HistoryTests.GetLastMoreThanStored" end time: Jul 10 11:38 MSK
+"HistoryTests.GetLastMoreThanStored" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/20 Testing: HistoryTests.GetLastOperationsZeroCount
+18/20 Test: HistoryTests.GetLastOperationsZeroCount
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/HistoryTests" "--gtest_filter=HistoryTests.GetLastOperationsZeroCount" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"HistoryTests.GetLastOperationsZeroCount" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HistoryTests.GetLastOperationsZeroCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HistoryTests
+[ RUN      ] HistoryTests.GetLastOperationsZeroCount
+[       OK ] HistoryTests.GetLastOperationsZeroCount (0 ms)
+[----------] 1 test from HistoryTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HistoryTests.GetLastOperationsZeroCount" end time: Jul 10 11:38 MSK
+"HistoryTests.GetLastOperationsZeroCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/20 Testing: HistoryTests.EmptyHistoryReturnsEmpty
+19/20 Test: HistoryTests.EmptyHistoryReturnsEmpty
+Command: "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/HistoryTests" "--gtest_filter=HistoryTests.EmptyHistoryReturnsEmpty" "--gtest_also_run_disabled_tests"
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"HistoryTests.EmptyHistoryReturnsEmpty" start time: Jul 10 11:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/shasdor/CalcGTestHomeTask/CalcGTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HistoryTests.EmptyHistoryReturnsEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HistoryTests
+[ RUN      ] HistoryTests.EmptyHistoryReturnsEmpty
+[       OK ] HistoryTests.EmptyHistoryReturnsEmpty (0 ms)
+[----------] 1 test from HistoryTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HistoryTests.EmptyHistoryReturnsEmpty" end time: Jul 10 11:38 MSK
+"HistoryTests.EmptyHistoryReturnsEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/20 Testing: HistoryTests.History_Overflow
+20/20 Test: HistoryTests.History_Overflow
+Command: ""
+Directory: /home/shasdor/CalcGTestHomeTask/CalcGTest/build
+"HistoryTests.History_Overflow" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"HistoryTests.History_Overflow" end time: Jul 10 11:38 MSK
+"HistoryTests.History_Overflow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 10 11:38 MSK

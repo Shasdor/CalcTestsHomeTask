@@ -12,10 +12,10 @@ class ICalculator
 public:
     virtual ~ICalculator() = default;
 
-    virtual int Add(int a, int b) = 0;
-    virtual int Subtract(int a, int b) = 0;
-    virtual int Multiply(int a, int b) = 0;
-    virtual int Divide(int a, int b) = 0;
+    virtual double Add(double a, double b) = 0;
+    virtual double Subtract(double a, double b) = 0;
+    virtual double Multiply(double a, double b) = 0;
+    virtual double Divide(double a, double b) = 0;
 
     virtual void SetHistory(IHistory& history) = 0;
 };

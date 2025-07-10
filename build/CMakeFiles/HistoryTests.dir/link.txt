@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/HistoryTests.dir/tests/HistoryTests.cpp.o -o HistoryTests  libCalcLib.a lib/libgtest.a lib/libgtest_main.a --coverage lib/libgtest.a 

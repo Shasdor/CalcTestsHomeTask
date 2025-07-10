@@ -1,0 +1,1 @@
+genhtml coverage.info --output-directory coverage-report --exclude /usr/include/* --exclude */gmock/* --exclude */googletest/*

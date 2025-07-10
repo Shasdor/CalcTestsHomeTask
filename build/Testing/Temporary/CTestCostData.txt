@@ -1,0 +1,21 @@
+SimpleCalculatorOperationTest.BaseOperations_AndLog 1 0.00885628
+SimpleCalculatorOperationTest.FractionalDivision_LogsAndResult 1 0.00863411
+SimpleCalculatorOperationTest.Divide_ByZero_ThrowsException 1 0.0102283
+BoundaryTest.Add_MaxValue_ShouldOverflowToInfinity 1 0.00751627
+BoundaryTest.Subtract_MaxMinusMax_ShouldBeZero 1 0.00750285
+BoundaryTest.Multiply_MaxTimesTwo_ShouldOverflowToInfinity 1 0.00859635
+BoundaryTest.Divide_MaxByTwo_ShouldBeHalfMax 1 0.00919847
+BoundaryTest.Add_MaxAndEpsilon_ShouldBeMaxDueToPrecision 1 0.00775238
+BoundaryTest.Add_NegativeMaxValues_ShouldOverflowToNegativeInfinity 1 0.00790375
+BoundaryTest.Subtract_NegativeMaxMinusNegativeMax_ShouldBeZero 1 0.00913252
+BoundaryTest.Multiply_NegativeMaxTimesTwo_ShouldOverflowToNegativeInfinity 1 0.00752943
+BoundaryTest.Divide_NegativeMaxByTwo_ShouldBeHalfNegativeMax 1 0.00804973
+BoundaryTest.Multiply_MinAndHalf_ShouldBePositive 1 0.00671449
+BoundaryTest.Add_MinAndEpsilon_ShouldBeGreaterThanMin 1 0.00671735
+HistoryTests.AddAndGetSingleOperation 1 0.0064131
+HistoryTests.GetLastMultipleOperations 1 0.00724043
+HistoryTests.GetLastMoreThanStored 1 0.0063002
+HistoryTests.GetLastOperationsZeroCount 1 0.00654824
+HistoryTests.EmptyHistoryReturnsEmpty 1 0.00763775
+HistoryTests.History_Overflow 0 0
+---

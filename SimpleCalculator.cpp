@@ -18,35 +18,40 @@ void SimpleCalculator::SetHistory(IHistory& history)
     m_history = history;
 }
 
-int SimpleCalculator::Add(int a, int b)
+double SimpleCalculator::Add(double a, double b)
 {
-    int result = a + b;
+    double result = a + b;
     LogOperation(a, "+", b, result);
     return result;
 }
 
-int SimpleCalculator::Subtract(int a, int b)
+double SimpleCalculator::Subtract(double a, double b)
 {
-    int result = a - b;
+    double result = a - b;
     LogOperation(a, "-", b, result);
     return result;
 }
 
-int SimpleCalculator::Multiply(int a, int b)
+double SimpleCalculator::Multiply(double a, double b)
 {
-    int result = a * b;
+    double result = a * b;
     LogOperation(a, "*", b, result);
     return result;
 }
 
-int SimpleCalculator::Divide(int a, int b)
+double SimpleCalculator::Divide(double a, double b)
 {
-    int result = a / b;
+    double result = a / b;
+    if (b == 0)
+    {
+        throw std::runtime_error("Division by zero");
+    }
     LogOperation(a, "/", b, result);
+
     return result;
 }
 
-void SimpleCalculator::LogOperation(int a, const char* op, int b, int result)
+void SimpleCalculator::LogOperation(double a, const char* op, double b, double result)
 {
     std::ostringstream oss;
     oss << a << " " << op << " " << b << " = " << result;

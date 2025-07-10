@@ -1,0 +1,5 @@
+if(EXISTS "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/HistoryTests[1]_tests.cmake")
+  include("/home/shasdor/CalcGTestHomeTask/CalcGTest/build/HistoryTests[1]_tests.cmake")
+else()
+  add_test(HistoryTests_NOT_BUILT HistoryTests_NOT_BUILT)
+endif()

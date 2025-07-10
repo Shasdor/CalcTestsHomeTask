@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CalcBaseOperationsTests.dir/tests/CalcBaseOperationsTests.cpp.o -o CalcBaseOperationsTests  libCalcLib.a lib/libgtest.a lib/libgtest_main.a lib/libgmock.a lib/libgmock_main.a --coverage lib/libgmock.a lib/libgtest.a 

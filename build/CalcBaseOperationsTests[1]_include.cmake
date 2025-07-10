@@ -1,0 +1,5 @@
+if(EXISTS "/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBaseOperationsTests[1]_tests.cmake")
+  include("/home/shasdor/CalcGTestHomeTask/CalcGTest/build/CalcBaseOperationsTests[1]_tests.cmake")
+else()
+  add_test(CalcBaseOperationsTests_NOT_BUILT CalcBaseOperationsTests_NOT_BUILT)
+endif()
