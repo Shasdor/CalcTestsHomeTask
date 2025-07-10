@@ -1,4 +1,4 @@
-![изображение](https://github.com/user-attachments/assets/6ab21dfb-931f-4479-9dee-062b24611864)
+![изображение](https://github.com/user-attachments/assets/856c30ff-30d7-48b1-a740-6951a69ff09a)
 
 ## Домашка
 
